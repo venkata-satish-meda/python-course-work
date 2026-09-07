@@ -1,9 +1,6 @@
 # Day 1 - Comments
-# Comments are notes written inside the code.
-# Python does not run comments.
+# Comments are notes for people reading the code.
+# Python ignores comments when running the program.
 
 # This is a single-line comment.
-print("Comments help us understand code.")
-
-# The next line prints a message.
-print("Python is easy to learn.")
+print("Comments make code easier to understand.")

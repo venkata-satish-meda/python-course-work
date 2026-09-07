@@ -1,31 +1,19 @@
 # Day 1 - Operators
-# Operators are symbols used to perform operations on values.
+# Arithmetic operators perform calculations.
 
-number1 = 10
-number2 = 3
+a = 10
+b = 3
 
-# Arithmetic operators
-print(number1 + number2)  # Addition
-print(number1 - number2)  # Subtraction
-print(number1 * number2)  # Multiplication
-print(number1 / number2)  # Division
-print(number1 % number2)  # Remainder
-print(number1 ** number2) # Power
-print(number1 // number2) # Floor division
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a % b)
+print(a ** b)
+print(a // b)
 
-# Assignment operator
-number1 = 20
-print(number1)
-
-# Comparison operators produce True or False.
-print(number1 == number2)
-print(number1 != number2)
-print(number1 > number2)
-print(number1 < number2)
-print(number1 >= number2)
-print(number1 <= number2)
-
-# Logical operators combine True/False values.
-print(True and True)
-print(True or False)
-print(not True)
+# Comparison operators return True or False.
+print(a == b)
+print(a != b)
+print(a > b)
+print(a < b)
