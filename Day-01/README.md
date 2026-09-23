@@ -1,0 +1,5 @@
+# Day-01
+
+Introduction to Python and basic program structure.
+
+Each Python file is intended for multiple practice programs. Use different logical approaches and realistic problem situations rather than repeating textbook examples.
