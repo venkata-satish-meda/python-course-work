@@ -1,39 +1,70 @@
 # Python Practice
 
-This repository contains hands-on Python practice from fundamentals through object-oriented programming.
+This repository contains my hands-on Python practice and coursework.
 
-## Practice approach
+The purpose of this repository is to document my learning, coding practice, and progress while developing a strong foundation in Python programming.
 
-- Each day focuses on one part of the Python course.
-- Files contain multiple runnable programs rather than single toy examples.
-- Examples use situations such as shopping, banking, attendance, payroll, orders, inventory, reports and automation.
-- Programs move from basic syntax to logic-building and interview-style practice.
+## About
 
-## Topics
+* Daily Python programming practice
+* Hands-on coding exercises and examples
+* Practical problem-solving programs
+* Interview-oriented programming practice
+* Real-world programming scenarios
+* Progressive learning from fundamentals to object-oriented programming
+* Practice with automation and small Python projects
 
-Day-01 Introduction to Python
-Day-02 Variables and Comments
-Day-03 Data Types and Type Conversion
-Day-04 Operators and Formatting
-Day-05 Strings
-Day-06 Lists and Tuples
-Day-07 Sets and Dictionaries
-Day-08 Conditional Statements
-Day-09 Conditional Problem Solving
-Day-10 Control Statements
-Day-11 While Loops and Nested Loops
-Day-12 Patterns and Pattern Problems
-Day-13 Pattern Logic and Problem Solving
-Day-14 Functions, Parameters and Arguments
-Day-15 Scope and Recursion
-Day-16 Lambda Functions
-Day-17 Comprehensions and Generators
-Day-18 Modules
-Day-19 Built-in Modules
-Day-20 Built-in Modules Practice
-Day-21 Exception Handling and File Operations
-Day-22 Email Automation
-Day-23 Virtual Assistant Project
-Day-24 Introduction to OOP
-Day-25 Constructors and Encapsulation
-Day-26 Inheritance and Method Overriding
+## Practice Approach
+
+Each day contains multiple Python programs focused on understanding concepts through implementation.
+
+The programs are designed to improve:
+
+* Python programming fundamentals
+* Logical thinking and problem solving
+* Code implementation
+* Programming consistency
+* Object-oriented programming skills
+* Practical application of Python
+
+## Repository Structure
+
+```text
+python-course-work/
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Day-04/
+├── Day-05/
+├── Day-06/
+├── Day-07/
+├── Day-08/
+├── Day-09/
+├── Day-10/
+├── Day-11/
+├── Day-12/
+├── Day-13/
+├── Day-14/
+├── Day-15/
+├── Day-16/
+├── Day-17/
+├── Day-18/
+├── Day-19/
+├── Day-20/
+├── Day-21/
+├── Day-22/
+├── Day-23/
+├── Day-24/
+├── Day-25/
+├── Day-26/
+└── README.md
+```
+
+## Goal
+
+To build strong Python programming fundamentals through consistent hands-on practice, problem solving, and practical implementation.
+
+## Status
+
+Completed Python course practice through Day-26.
+
